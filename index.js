@@ -14,7 +14,9 @@ const multiply = (a, b) => {
   return a * b;
 }
 
-
+function inc(n) {
+  
+}
 
 add(5, 4);
 subtract(3, 2);
